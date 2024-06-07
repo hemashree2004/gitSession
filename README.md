@@ -4,4 +4,4 @@ for second commit
 
 New changes for branch
 
-changes
+changes for branch
